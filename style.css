@@ -71,7 +71,7 @@ tbody tr {
 }
 
 tbody tr:nth-child(even) {
-    background-color: #f9f9f9;
+    background-color: black;
 }
 
 tbody tr:hover {
@@ -92,13 +92,13 @@ td:first-child {
 
 td:nth-child(2) {
     width: 30%;
-    color: #555;
+    color: white;
     font-size: 33px;
 }
 
 td:nth-child(3) {
     width: 40%;
-    color: #777;
+    color: white;
     font-size: 30px;
 }
 
