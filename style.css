@@ -21,15 +21,15 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
-    color: #4A4A4A;
+    color: white;
 }
 
 .search-container {
     display: flex;
     gap: 20px;
-    justify-content: center;
+    justify-content: left;
     margin: 20px;
     flex-wrap: wrap;
 }
